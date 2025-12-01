@@ -1,4 +1,6 @@
 [project]
 dependencies = [
-    "spotipy"
+    "spotipy",
+    "customtkinter",
+    "screeninfo"
 ]
